@@ -1,6 +1,6 @@
 # uldaq-applications
 
-Thesea are Python applications based on Measurement Computing(mccdaq.com)'s USB 1808x, a data acquisition product.
+These are Python applications based on Measurement Computing(mccdaq.com)'s USB 1808x, a data acquisition product.
 USB 1808x is usually used in acquiring vibration data from a surface of a things such as pipes underground.
 
 I built several apps to automate the tasks of recording, refining, and processing data using the Python library provided by Measurement Computing(https://www.mccdaq.com/PDFs/Manuals/UL-Linux/python/index.html)
